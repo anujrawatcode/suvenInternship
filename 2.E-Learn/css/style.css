@@ -1,0 +1,56 @@
+/* **************** Header *****************/
+.jumbotron {
+    
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-image: url("/2.E-Learn/img/img1.jpg");
+    background-repeat: no-repeat;
+}
+
+.jumbotron .row {
+    color: white;
+    height: auto;
+    background-image: url("/2.E-Learn/img/grad.jpg");
+}
+
+.stripTxt , .stripTxt1 {
+    text-align: center;
+}
+.stripTxt1 {
+    padding-top: 1rem;
+}
+
+.jumbotron .container {
+    padding: 12.5rem 0;
+    color: rgb(255, 255, 255);
+}
+
+/* card */
+.card {
+    margin-bottom: 23px;
+    padding: 15px; /* JUST TO LOOK COOL */
+    border: 1px solid #eee;  /* JUST TO LOOK COOL */
+    /* //box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px; */
+    transition: all .3s ease-in-out;
+    background-color: rgb(223, 211, 211);
+  }
+  
+  .card:hover {
+    box-shadow: rgba(0, 0, 0, 0.22) 0px 19px 43px;
+    transform: translate3d(0px, -1px, 0px);
+  }
+
+  /* footer */
+
+  .footer .col-lg-4 {
+      text-align: center;
+  }
+
+  .copyright {
+      padding: 2rem;
+      margin: 0;
+      background-color: black;
+      color: white;
+      text-align: center;
+  }

@@ -1,0 +1,110 @@
+.header  .jumbotron {
+    padding-top: 0px;
+}
+.header  .jumbotron {
+    text-align: center;
+    font-weight: bold;
+    background-image: url("/3.Opexx/img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-repeat: repeat-y;
+    color: white;
+}
+.header .display-4{
+    padding: 9rem 0;
+}
+
+.header .lead {
+    color: white;
+    padding-bottom: 2rem;
+    font-weight: bolder;
+}
+
+.nav-item {
+    color: white;
+}
+
+.navbar {
+    padding: 0;
+    margin: 0;
+}
+
+/* middle */
+
+.middle {
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+.header .mid-div {
+    display: inline-block;
+    margin: 20px;
+}
+
+/* lower */
+.lower {
+    background-color: rgb(209, 202, 209);
+}
+
+.jumbo2 {
+    text-align: center;
+}
+
+.card  {
+    position: relative;
+    margin: 2rem auto;
+}
+
+.footer {
+    text-align: center;
+}
+.footimg {
+    position: relative;
+    margin-left: 5rem;
+   
+}
+
+.form1 {
+    display: inline;
+    width: 45%;
+}
+
+.form2 {
+    display: inline;
+    width: 25%;
+}
+
+.header2 {
+    background-color: rgb(53, 206, 190);
+    text-align: center;
+}
+
+.search-bar-text {
+    color: white;
+    padding: 1rem 0;
+}
+
+.bottom {
+    text-align: center;
+}
+.bottom-text {
+    padding: 1rem 0;
+}
+
+.bottom3 {
+   text-align: center;
+   background-color: rgba(180, 187, 177, 0.794);
+}
+
+body {
+    text-align: center;
+}
+
+.header3 {
+    margin: 4rem 0;
+}
+
+.middle-text , .bottom3-text {
+    padding: 0 30rem;
+}
+
